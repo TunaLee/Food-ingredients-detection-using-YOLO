@@ -1,0 +1,14 @@
+kimchi
+perilla_leaf
+beef
+carrot
+bean_sprouts
+steamed_rice
+celery
+bracken
+enoki_mushroom
+oyster_mushroom
+egg
+ramen
+potato
+tuna_can
